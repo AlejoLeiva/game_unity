@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c445823981956d042887d52baee3c228, type: 3}
+  m_Name: VirtualGuy
+  m_EditorClassIdentifier: 
+  personajeJugable: {fileID: 1841392481756388190, guid: dbf02b288538534489a299bceaf41b3e, type: 3}
+  imagen: {fileID: -6367560908665664636, guid: 40de9a8703e2e5a47882b0b86451c741, type: 3}
+  nombre: VirtualGuy
